@@ -1,0 +1,3 @@
+Github cannot create empty folders. So start by adding a new file to your repo, then type the folder name you want (in this case "images") and end it with the "/". 
+This automatically creates the new folder, then prompts you to name the file that will sit within that folder (in this case "text"). 
+So this "text" file is simply something needed to created the "images folder."

@@ -1,0 +1,7 @@
+The regular expression "(\+\d{1,2})?[\s.-]?\d{3}[\s.-]?\d{4}" matches the following phone number notations:
+
+123-456-7890
+(123) 456-7890
+123 456 7890
+123.456.7890
++91 (123) 456-7890
