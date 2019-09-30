@@ -1,10 +1,13 @@
 ## Notes 9/30
 strings 'hello world'
   store objectws in ordered sequence with indexes 
+
 list ['hello', 'world', 'bye']
+
 tuples('hello', 'world', 'bye') 
   similar to lists, contain small elements
-#dictionaries
+
+# dictionaries
   use 'key value' pariing instead 
   syntax: {'key1': 'value2', 'key2': 'value2', .....}
   cannot be sorted 
