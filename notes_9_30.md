@@ -15,7 +15,7 @@ tuples('hello', 'world', 'bye')
   - data types: integers, floats, lists, other dictionaries
   - can retrieve value without knowing location 
   - good choice for storing data for user inputting name, age, etc and surveys
-functions with dictionaries: 
+-- functions with dictionaries: 
 - keys() returns a list
 - items() returns a tuple
 - clear() empties list 
