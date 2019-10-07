@@ -13,4 +13,13 @@ Always keep in mind:
   - code may depend on other things (dictionaries, libraries)
 - accessibilty:
   - different users, different technology
-  
+
+### Future python: Editors
+- Atom Editor
+- PyCharm
+- Jupyter Notebooks
+#### Resources
+- Automate the Boring Stuff (free online book)
+- Udemy
+- Towardsdatascience.com blog
+
